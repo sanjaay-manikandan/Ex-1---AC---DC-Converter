@@ -2,8 +2,8 @@
 
 **Aim:**
 To design, simulate, and analyze an AC–DC converter circuit using Proteus software by converting alternating current (AC) input into direct current (DC) output using a transformer, bridge rectifier, filter capacitor, and voltage regulator.
-
-**Apparatus Required**
+```
+Apparatus Required
 S.No	Components/Software	Specification
 1	Proteus Design Suite	Version 8.0 or above
 2	AC Voltage Source	230 V AC / 50 Hz
@@ -15,10 +15,11 @@ S.No	Components/Software	Specification
 8	LED	Indicator
 9	Ground Terminal	-
 10	Oscilloscope/Voltmeter	Virtual Instrument
-
+```
  **Circuit Diagram**
 
-(Insert Proteus circuit diagram here)
+<img width="1352" height="947" alt="image" src="https://github.com/user-attachments/assets/5bacf42c-2e3a-413f-bef2-fc8b8eedeb92" />
+
 
 **Theory**
 An AC–DC converter is an electronic circuit that converts alternating current (AC) into direct current (DC). Most electronic devices require a stable DC voltage for operation; therefore, power supply circuits are widely used in electronic systems.
@@ -57,7 +58,9 @@ o	Regulated DC output
 8.	Record the output voltage and waveform characteristics.
 
 **Output**
-(Insert Proteus output diagram here)
+
+<img width="1343" height="938" alt="image" src="https://github.com/user-attachments/assets/ef86adcb-818a-4809-a7bc-1f9f6c7e3193" />
+
 
 **Result**
 The AC–DC converter circuit was successfully designed and simulated using Proteus software. The alternating current input was converted into a stable direct current output through rectification, filtering, and voltage regulation stages. The simulated output voltage matched the expected theoretical values.
